@@ -14,7 +14,7 @@ Application web pour la gestion d'une agence de location de voitures, développ�
 
 | Exemple de Facture |
 |--------------------|
-| ![](assets/screenshots/analytics.jfif) |
+| ![](assets/screenshots/image5.jfif) |
 
 
 ## 🚀 Fonctionnalités
