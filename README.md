@@ -2,6 +2,21 @@
 
 Application web pour la gestion d'une agence de location de voitures, développée en PHP avec une architecture MVC.
 
+## 🖼️ Aperçu de l’Application
+
+| Tableau de Bord | Gestion des Voitures |
+|-----------------|---------------------|
+| ![](assets/screenshots/image1.jfif) | ![](assets/screenshots/image2.jfif) |
+
+| Gestion des Contrats  |  Détail du contrats | |
+|--------------------|----------------------|
+| ![](assets/screenshots/image3.jfif) | ![](assets/screenshots/image4.jfif) |
+
+| Exemple de Facture |
+|------------------------|
+| ![](assets/screenshots/analytics.jfif) |
+
+
 ## 🚀 Fonctionnalités
 
 ### Gestion des Entités
