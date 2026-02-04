@@ -205,6 +205,7 @@ Modifier les informations de l'entreprise dans **Paramètres > Entreprise** :
 
 ## 📄 Licence
 
-projet développé pour FastCar Location, faculté des sciences semlalia, département d'info, système d'informations.
+Ce projet est sous licence MIT © 2026 **Hakim HADDIOUI**.
+
 
 ---
